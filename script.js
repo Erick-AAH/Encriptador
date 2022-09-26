@@ -19,7 +19,7 @@ function btnEncriptar(){
     textoIngresado.value = ""
     document.getElementById('copiar').style.display = "block" ;
     document.getElementById('p').style.display = "none" ;
-    document.getElementById('textoen2').style.height = "310px" ;
+    document.getElementById('textoen2').style.height = "320px" ;
     document.getElementById('texto-copiar').style.display = "block" ;
 }
 
